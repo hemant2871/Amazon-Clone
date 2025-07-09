@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon clone</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+    <link rel="stylesheet" href="Amazon_clone_style.css">
+</head>
+<body>
+    <header>
+        
+        <div class="navbar">
+            <!-- for logo -->
+            <div class="nav-logo">
+                <div class="logo border"></div>
+            </div>
+
+            <!-- for address-->
+            <div class="nav address border">
+                <p class="add-first">deliver to</p>
+                <div class="add-icon">
+                    <i class="fa-solid fa-location-dot"></i>
+                    <p class="add-two">India</p>
+                </div>
+            </div>
+
+            <!-- for search-->
+            <div class="nav-search">
+                <select class="select-search">
+                    <option>All</option>
+                </select>
+                <input placeholder="Search Amazon" class="search-input">
+                <div class="search-icon"><i class="fa-solid fa-magnifying-glass"></i></div>
+            </div>
+
+            <!-- for nav sign in-->
+            <div class="nav-signin border">
+                <p><span>Hello, Sign in</span></p>
+                <p class="nav-second">Account & lists</p>
+            </div>
+
+             <!-- for new order box-->
+            <div class="nav-return border">
+                <p><span>Returns</span></p>
+                <p class="nav-second">& Orders</p>
+            </div>
+
+             <!-- for new cart box-->
+            <div class="nav-cart border">
+                <i class="fa-solid fa-cart-shopping"></i>
+            cart    
+            </div>
+
+        </div>
+
+     <!-- for new panel on website-->
+     <div class="panel">
+
+        <!-- all activity on one panel-->
+        <div class="panel-all">
+            <i class="fa-solid fa-bars"></i>
+             All
+            </div>
+            <div class="panel-option">
+                <p>Today's Deals</p>
+                <p>Customer Service</p>
+                <p>Registry</p>
+                <p>Gift Cards</p>
+                <p>Sell</p>
+            </div>
+
+          <!-- panel deals-->
+           <div class="panel-deals"> 
+            Shop deals in Electronics
+           </div>
+        </div>
+    </header>
+
+    <!--Hero Section-->
+    <div class ="hero-section">
+        <div class="hero-message">
+            <p>You are on amazon.com. You can also shop on Amazon India for millions of products with fast local delivery. <a>
+                Click here to go to amazon.in </a>
+            </p>
+        </div>
+    </div>
+
+    <!--Content Section-->
+    <div class="shop-section">
+
+        <!-- box 1-->
+    <div class="box1 box">
+        <div class="box-content">
+            <h2>Get Freedom Sale</h2>
+            <div class="box-img-one"></div>
+            <p>See more</p>
+        </div>
+    </div>
+
+    <!--box 2-->
+    <div class="box2 box">
+        <div class="box-content">
+           <h2>Get Gym Tools</h2>
+           <div class="box-img-two"></div>
+           <p>See more</p>
+    </div>
+    </div>
+
+    <!-- box 3-->
+    <div class="box3 box">
+        <div class="box-content">
+            <h2>Get Office Chairs</h2>
+            <div class="box-img-three"></div>
+            <p>See more</p>
+     </div>
+    </div>
+
+    <!--box 4-->
+    <div class="box4 box">
+        <div class="box-content">
+            <h2>Get Crockery items </h2>
+            <div class="box-img-four"></div>
+            <p>See more</p>
+     </div>
+    </div>
+
+       <!-- box 5-->
+       <div class="box1 box">
+        <div class="box-content">
+            <h2>Get Electronics items</h2>
+            <div class="box-img-five"></div>
+            <p>See more</p>
+        </div>
+    </div>
+
+    <!--box 6-->
+    <div class="box2 box">
+        <div class="box-content">
+           <h2>Get plastic boxes</h2>
+           <div class="box-img-six"></div>
+           <p>See more</p>
+    </div>
+    </div>
+
+    <!-- box 7-->
+    <div class="box3 box">
+        <div class="box-content">
+            <h2>Get Tshirts </h2>
+            <div class="box-img-seven"></div>
+            <p>See more</p>
+     </div>
+    </div>
+
+    <!--box 8-->
+    <div class="box4 box">
+        <div class="box-content">
+            <h2>Get Auto Parts of Vehicle</h2>
+            <div class="box-img-eight"></div>
+            <p>See more</p>
+     </div>
+    </div>
+    </div>
+
+    <footer>
+        <div class="foot-panel-one">
+            Back to Top
+        </div>
+
+        <div class="foot-panel-two">
+            <ul>
+                <p>Get toKnow us</p>
+                <a>About us</a>
+                <a>Careers</a>
+                <a>Press Releases</a>
+                <a>Amazon Science</a>
+            </ul>
+
+            <ul>
+                <p>Connect with Us</p>
+                <a>Facebook</a>
+                <a>Twitter</a>
+                <a>Instagram</a>
+            </ul>
+
+            <ul>
+                <p>Make money with us</p>
+                <a>Sell on Amazon</a>
+                <a>Sell under Accelerator</a>
+                <a>Protect and build Your Brand</a>
+                <a>Amazon Global Selling</a>
+                <a>Become an Affiliate</a>
+                <a>Fulfilment by Amazon</a>
+                <a>Advertise Your Products</a>
+                <a>Amazon Pay on Merchants</a>
+            </ul>
+
+            <ul>
+                <p>Let Us Help You</p>
+                <a>COVID-19 and Amazon</a>
+                <a>Your Account</a>
+                <a>Returns Centre</a>
+                <a>Recalls and Product Safety Alerts</a>
+                <a>Amazon App Download</a>
+                <a>Help</a>
+            </ul>
+        </div>
+
+        <div class="foot-panel-three">
+            <div class="logo"></div>
+        </div>
+
+        <div class="foot-panel-four">
+            <div class="pages">
+                <a>Conditions of Use</a>
+                <a>Privacy Notice</a>
+                <a>Your Ads privacy Choices</a>
+            </div>
+            <div class="copyright">
+                © 1996-2024, Amazon.com, Inc. or its affiliates
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
